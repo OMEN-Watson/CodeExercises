@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-23T06:59:14.397Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="7Bt0i642oxotOjPQkG-Q" version="24.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-23T07:04:50.821Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ha3zzeTPrABbWb8aIjDt" version="24.0.8" type="github">
   <diagram name="Page-1" id="5d7acffa-a066-3a61-03fe-96351882024d">
     <mxGraphModel dx="989" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -42,11 +42,6 @@
             <mxPoint x="183.5077519379845" y="376" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="21ea969265ad0168-36" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;startFill=0;startSize=8;endFill=1;endSize=8;fontFamily=Verdana;fontSize=12;" parent="1" source="21ea969265ad0168-6" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="266" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="44gbxCg4L5SLpbTDqsJX-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="21ea969265ad0168-7" target="21ea969265ad0168-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -88,6 +83,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="700" y="313" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="44gbxCg4L5SLpbTDqsJX-15" value="Function 1.7" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="530" y="370" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="44gbxCg4L5SLpbTDqsJX-16" value="&lt;div&gt;&lt;div&gt;boolean operation to cut&amp;nbsp; the two related outline&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="44gbxCg4L5SLpbTDqsJX-15">
+          <mxGeometry y="26" width="160" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
