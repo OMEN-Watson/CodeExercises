@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-08T09:38:56.614Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="EStdL3LZaT6YvWayalL1" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-08T09:42:22.225Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="Z__DQclzF0XkWNSNkN-n" version="24.2.2" type="github">
   <diagram name="Page-1" id="FH-MjQ3Gdre_km2aux0O">
     <mxGraphModel dx="2514" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -35,7 +35,7 @@
           <mxGeometry x="427" y="898" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1GX4WDQJ30EX59OHU7WI-10" value="&lt;span style=&quot;color: rgb(13, 13, 13); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-wrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(13, 13, 13); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-wrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;databases for storing user profiles&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=#FF0000;horizontal=1;verticalAlign=top;strokeWidth=5;perimeterSpacing=0;gradientColor=none;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="427" y="1212" width="199" height="45" as="geometry" />
+          <mxGeometry x="427" y="1212" width="199" height="58" as="geometry" />
         </mxCell>
         <mxCell id="1GX4WDQJ30EX59OHU7WI-11" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.462;exitY=1.098;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="1GX4WDQJ30EX59OHU7WI-9" target="1GX4WDQJ30EX59OHU7WI-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -104,7 +104,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1GX4WDQJ30EX59OHU7WI-30" value="&lt;span style=&quot;color: rgb(13, 13, 13); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-wrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Notification services (email, SMS, app push notifications)&lt;/span&gt;&lt;span style=&quot;font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-wrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;;&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=#FF0000;horizontal=1;verticalAlign=top;strokeWidth=5;perimeterSpacing=0;gradientColor=none;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1346" y="879.5" width="188" height="86" as="geometry" />
+          <mxGeometry x="1390" y="879.5" width="188" height="86" as="geometry" />
         </mxCell>
         <mxCell id="1GX4WDQJ30EX59OHU7WI-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1GX4WDQJ30EX59OHU7WI-33" target="1GX4WDQJ30EX59OHU7WI-34">
           <mxGeometry relative="1" as="geometry" />
@@ -138,7 +138,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1GX4WDQJ30EX59OHU7WI-40" value="" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=#009900;horizontal=1;verticalAlign=top;strokeWidth=5;perimeterSpacing=0;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="130" y="740" width="270" height="320" as="geometry" />
+          <mxGeometry x="148" y="727" width="492" height="583" as="geometry" />
+        </mxCell>
+        <mxCell id="1GX4WDQJ30EX59OHU7WI-41" value="" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=#009900;horizontal=1;verticalAlign=top;strokeWidth=5;perimeterSpacing=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="660" y="727" width="680" height="603" as="geometry" />
+        </mxCell>
+        <mxCell id="1GX4WDQJ30EX59OHU7WI-42" value="" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=#009900;horizontal=1;verticalAlign=top;strokeWidth=5;perimeterSpacing=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="727" width="230" height="433" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
