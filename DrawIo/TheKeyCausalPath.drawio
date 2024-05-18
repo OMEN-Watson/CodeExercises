@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-18T02:51:39.749Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="mXaYNvDy0e7rATPbzPou" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-18T02:53:56.253Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="78e-Bm8qkEGjDN1-2lkj" version="24.3.1" type="github">
   <diagram name="Page-1" id="fyQJrKO3HGvpboNa-rPu">
     <mxGraphModel dx="989" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -33,6 +33,12 @@
         </mxCell>
         <mxCell id="Rn9gUrKCNcuoDYYOBClU-28" value="&lt;h3 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Real-Time Data Processing&lt;/strong&gt;&lt;/h3&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;ul&gt;&lt;li&gt;Implement real-time data processing technologies to handle incoming signals without delay. This can be achieved through stream processing frameworks like Apache Kafka or Apache Flink, which are designed to process large streams of data on-the-fly, ensuring minimal latency between signal detection and response.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="640" y="310" width="360" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Rn9gUrKCNcuoDYYOBClU-29" value="&lt;h3 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Advanced Data Filtering&lt;/strong&gt;&lt;/h3&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;ul&gt;&lt;li&gt;Deploy machine learning algorithms to enhance signal processing. These algorithms can learn from historical data to identify patterns and improve the accuracy of signal detection and categorization. For example, supervised learning models can be trained to distinguish between false alarms and genuine emergencies based on past instances.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="640" y="510" width="360" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Rn9gUrKCNcuoDYYOBClU-30" value="&lt;h3 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Parallel Processing&lt;/strong&gt;&lt;/h3&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;ul&gt;&lt;li&gt;Utilize parallel processing techniques to handle multiple signals simultaneously, which is crucial during multiple simultaneous emergencies. This can be facilitated by using multi-threading or distributed computing systems that divide the workload across several processors or machines, thus speeding up the processing time.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="640" y="720" width="360" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
