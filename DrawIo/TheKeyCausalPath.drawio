@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-18T03:17:32.480Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="8_mWTW9orQ9WXd-qYFqD" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-18T03:20:41.236Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="xban_Vk7467kNl4vtEMj" version="24.3.1" type="github">
   <diagram name="Page-1" id="fyQJrKO3HGvpboNa-rPu">
-    <mxGraphModel dx="1402" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1236" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,6 +22,12 @@
         <mxCell id="Rn9gUrKCNcuoDYYOBClU-24" value="&lt;h3 style=&quot;text-align: center;&quot;&gt;Software Algorithms&lt;/h3&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Anomaly Detection&lt;/strong&gt;: Develop algorithms that analyze data from various sensors to identify anomalies indicative of an emergency (e.g., sudden falls, inactivity, or physiological changes).&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Machine Learning Models&lt;/strong&gt;: Use machine learning models trained on vast datasets to improve the accuracy of automatic distress signal detection over time.&lt;/li&gt;&lt;/ul&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="200" y="720" width="360" height="170" as="geometry" />
         </mxCell>
+        <mxCell id="Rn9gUrKCNcuoDYYOBClU-44" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rn9gUrKCNcuoDYYOBClU-25" target="Rn9gUrKCNcuoDYYOBClU-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rn9gUrKCNcuoDYYOBClU-45" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rn9gUrKCNcuoDYYOBClU-25" target="Rn9gUrKCNcuoDYYOBClU-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Rn9gUrKCNcuoDYYOBClU-25" value="&lt;strong style=&quot;font-size: 15px;&quot;&gt;Process and Validate Signals (1.2)&lt;/strong&gt;" style="whiteSpace=wrap;html=1;align=center;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="880" y="200" width="370" height="50" as="geometry" />
         </mxCell>
@@ -32,43 +38,43 @@
           <mxGeometry x="2360" y="200" width="370" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Rn9gUrKCNcuoDYYOBClU-28" value="&lt;h3 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Real-Time Data Processing&lt;/strong&gt;&lt;/h3&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;ul&gt;&lt;li&gt;Implement real-time data processing technologies to handle incoming signals without delay. This can be achieved through stream processing frameworks like Apache Kafka or Apache Flink, which are designed to process large streams of data on-the-fly, ensuring minimal latency between signal detection and response.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="640" y="310" width="360" height="170" as="geometry" />
+          <mxGeometry x="650" y="490" width="360" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Rn9gUrKCNcuoDYYOBClU-29" value="&lt;h3 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Advanced Data Filtering&lt;/strong&gt;&lt;/h3&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;ul&gt;&lt;li&gt;Deploy machine learning algorithms to enhance signal processing. These algorithms can learn from historical data to identify patterns and improve the accuracy of signal detection and categorization. For example, supervised learning models can be trained to distinguish between false alarms and genuine emergencies based on past instances.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="640" y="510" width="360" height="170" as="geometry" />
+          <mxGeometry x="650" y="690" width="360" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Rn9gUrKCNcuoDYYOBClU-30" value="&lt;h3 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Parallel Processing&lt;/strong&gt;&lt;/h3&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;ul&gt;&lt;li&gt;Utilize parallel processing techniques to handle multiple signals simultaneously, which is crucial during multiple simultaneous emergencies. This can be facilitated by using multi-threading or distributed computing systems that divide the workload across several processors or machines, thus speeding up the processing time.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="640" y="720" width="360" height="170" as="geometry" />
+          <mxGeometry x="650" y="900" width="360" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Rn9gUrKCNcuoDYYOBClU-31" value="&lt;h3 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Contextual Processing&lt;/strong&gt;&lt;/h3&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;ul&gt;&lt;li&gt;Incorporate contextual information in the processing stage to enhance the accuracy and relevance of the distress signals. This includes integrating location data, time stamps, and environmental conditions. Contextual processing helps in understanding the situation better and aids in deciding the urgency and type of response needed.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="640" y="930" width="360" height="170" as="geometry" />
+          <mxGeometry x="650" y="1110" width="360" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Rn9gUrKCNcuoDYYOBClU-32" value="&lt;h3 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Authentication and Authorization&lt;/strong&gt;&lt;/h3&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;User Verification&lt;/strong&gt;: Establish protocols to authenticate the identity of the signal sender using secure login methods, biometric data, or device authentication. This helps ensure that signals are coming from registered and legitimate users.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Device Authentication&lt;/strong&gt;: Implement systems to verify the device from which the distress signal originates, possibly using certificates or secure device IDs to prevent unauthorized devices from sending signals.&lt;/li&gt;&lt;/ul&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="310" width="440" height="170" as="geometry" />
+          <mxGeometry x="1040" y="490" width="440" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Rn9gUrKCNcuoDYYOBClU-33" value="&lt;h3 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Error Checking and Correction&lt;/strong&gt;&lt;/h3&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Checksums and CRC&lt;/strong&gt;: Utilize checksums or cyclic redundancy check (CRC) methods to detect any alterations or errors in the data received. These techniques are critical for maintaining data integrity during transmission.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Error-Correcting Codes&lt;/strong&gt;: Implement forward error correction (FEC) techniques to automatically correct errors in signal data without needing a retransmission, which is crucial in time-sensitive situations.&lt;/li&gt;&lt;/ul&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="510" width="440" height="170" as="geometry" />
+          <mxGeometry x="1040" y="690" width="440" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Rn9gUrKCNcuoDYYOBClU-34" value="&lt;h3 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Signal Integrity Checks&lt;/strong&gt;&lt;/h3&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Data Validation Rules&lt;/strong&gt;: Set up a series of data validation rules that every signal must pass before being considered valid. These might include checks for data format, completeness, and logical consistency (e.g., the location data matches the known areas of service).&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Anomaly Detection&lt;/strong&gt;: Employ anomaly detection techniques to identify signals that deviate from typical patterns, which might indicate malfunctioning equipment or attempted system abuse.&lt;/li&gt;&lt;/ul&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="720" width="440" height="170" as="geometry" />
+          <mxGeometry x="1040" y="900" width="440" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Rn9gUrKCNcuoDYYOBClU-35" value="&lt;h3 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;MQTT (Message Queuing Telemetry Transport)&lt;/strong&gt;&lt;br&gt;&lt;/h3&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;ul&gt;&lt;li&gt;This is a lightweight messaging protocol that provides an efficient, &lt;br&gt;data-conserving, low-latency communication method, especially useful in &lt;br&gt;mobile applications or environments where network bandwidth is at a &lt;br&gt;premium. MQTT is ideal for many IoT scenarios because it supports &lt;br&gt;asynchronous communication and has robust message delivery guarantees (QoS levels).&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1620" y="350" width="440" height="170" as="geometry" />
+          <mxGeometry x="1705" y="330" width="440" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Rn9gUrKCNcuoDYYOBClU-36" value="&lt;h3 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;CoAP (Constrained Application Protocol)&lt;/strong&gt;&lt;br&gt;&lt;/h3&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;ul&gt;&lt;li&gt;This is a web transfer protocol designed for use with constrained nodes &lt;br&gt;and networks in the IoT. It is similar to HTTP but optimized for M2M &lt;br&gt;(machine-to-machine) applications such as smart sensors and control &lt;br&gt;nodes in embedded systems. CoAP supports UDP (User Datagram Protocol) for lower overhead and multicast support, making it well-suited for high-latency or low-throughput networks where minimal data overhead is critical.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1620" y="530" width="440" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="Rn9gUrKCNcuoDYYOBClU-38" value="&lt;h3&gt;&lt;strong&gt;Communication Protocol Optimization&lt;/strong&gt;&lt;/h3&gt;" style="whiteSpace=wrap;html=1;align=center;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1640" y="280" width="370" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Rn9gUrKCNcuoDYYOBClU-39" value="&lt;h3&gt;&lt;strong&gt;Network Resilience and Redundancy&lt;/strong&gt;&lt;br&gt;&lt;/h3&gt;" style="whiteSpace=wrap;html=1;align=center;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="2150" y="280" width="370" height="50" as="geometry" />
+          <mxGeometry x="1705" y="510" width="440" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Rn9gUrKCNcuoDYYOBClU-40" value="&lt;h3 style=&quot;text-align: center;&quot;&gt;&lt;strong style=&quot;background-color: initial; font-size: 12px;&quot;&gt;primary MQTT and secondary&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;CoAP&amp;nbsp;&lt;/strong&gt;&lt;br&gt;&lt;/h3&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Fallback Mechanisms&lt;/strong&gt;: Implementing fallback mechanisms &lt;br/&gt;involves using a primary protocol (e.g., MQTT) under normal &lt;br/&gt;circumstances and switching to a secondary protocol (e.g., CoAP or even &lt;br/&gt;HTTP) if the primary protocol fails. This redundancy ensures that the &lt;br/&gt;system remains functional even if one protocol becomes unreliable due to&lt;br/&gt; network issues.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1620" y="730" width="440" height="170" as="geometry" />
+          <mxGeometry x="1705" y="710" width="440" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Rn9gUrKCNcuoDYYOBClU-41" value="&lt;h3 style=&quot;text-align: center;&quot;&gt;&lt;strong style=&quot;background-color: initial; font-size: 12px;&quot;&gt;both MQTT and &lt;/strong&gt;&lt;strong&gt;CoAP&amp;nbsp;&lt;/strong&gt;simultaneously&lt;br&gt;&lt;/h3&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Simultaneous Protocols&lt;/strong&gt;: In some systems, it might be beneficial to transmit signals over multiple protocols simultaneously to guarantee delivery. For instance, critical alerts could be sent both via MQTT and a cellular SMS system to ensure that the message reaches the emergency services one way or another.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1620" y="940" width="440" height="170" as="geometry" />
+          <mxGeometry x="1705" y="920" width="440" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Rn9gUrKCNcuoDYYOBClU-42" value="&lt;strong style=&quot;font-size: 15px;&quot;&gt;Validate Signals&lt;/strong&gt;" style="whiteSpace=wrap;html=1;align=center;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1075" y="360" width="370" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Rn9gUrKCNcuoDYYOBClU-43" value="&lt;strong style=&quot;font-size: 15px;&quot;&gt;Process&amp;nbsp; Signals&lt;/strong&gt;" style="whiteSpace=wrap;html=1;align=center;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="650" y="360" width="370" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
