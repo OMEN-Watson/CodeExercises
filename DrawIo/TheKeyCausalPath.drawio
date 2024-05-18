@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-18T03:20:41.236Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="xban_Vk7467kNl4vtEMj" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-18T04:09:06.601Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="5sHhBTXulDCGGQy_jgXR" version="24.3.1" type="github">
   <diagram name="Page-1" id="fyQJrKO3HGvpboNa-rPu">
-    <mxGraphModel dx="1236" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="2696" dy="1356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="Rn9gUrKCNcuoDYYOBClU-6" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="160" y="270" as="sourcePoint" />
-            <mxPoint x="2200" y="270" as="targetPoint" />
+            <mxPoint x="2930" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Rn9gUrKCNcuoDYYOBClU-21" value="&lt;h3 style=&quot;text-align: center;&quot;&gt;Sensor Integration&lt;/h3&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Type of Sensors&lt;/strong&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;: Utilize a combination of sensors like GPS, accelerometers, temperature sensors, and heart rate monitors to detect unusual patterns or emergencies automatically.&lt;/span&gt;&lt;br&gt;&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Context Awareness&lt;/strong&gt;: Sensors should be capable of context-aware processing to differentiate between normal activities and potential emergencies.&lt;/li&gt;&lt;/ul&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
@@ -75,6 +75,12 @@
         </mxCell>
         <mxCell id="Rn9gUrKCNcuoDYYOBClU-43" value="&lt;strong style=&quot;font-size: 15px;&quot;&gt;Process&amp;nbsp; Signals&lt;/strong&gt;" style="whiteSpace=wrap;html=1;align=center;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="650" y="360" width="370" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Rn9gUrKCNcuoDYYOBClU-46" value="&lt;h3 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;GIS Mapping and Tracking&lt;/strong&gt;&lt;/h3&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Implementation&lt;/strong&gt;: Utilize Geographic Information System (GIS) technology to create dynamic maps that display the location of the emergency, the positions of response units, and other relevant geographical information like traffic conditions and hazards.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Real-Time Updates&lt;/strong&gt;: Ensure the GIS system receives real-time updates from emergency responders and other data sources to maintain accuracy and usefulness during rapidly evolving situations.&lt;/li&gt;&lt;/ul&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2325" y="330" width="440" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Rn9gUrKCNcuoDYYOBClU-47" value="&lt;h3 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Centralized Communication Platforms&lt;/strong&gt;&lt;/h3&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Unified Command Center&lt;/strong&gt;: Develop a centralized digital communication platform that allows all emergency services to communicate and share information in real time. This platform can include features like live chat, voice communication, and data sharing.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Interoperability&lt;/strong&gt;: Ensure the platform is interoperable with various communication systems used by different emergency services to facilitate seamless information exchange.&lt;/li&gt;&lt;/ul&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="520" width="440" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
