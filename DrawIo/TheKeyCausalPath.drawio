@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-18T02:35:19.805Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="9aXBLtsg2QtihLbjDg4D" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-18T02:40:26.020Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="mRYfPGbh43Vb1M3lxtDu" version="24.3.1" type="github">
   <diagram name="Page-1" id="fyQJrKO3HGvpboNa-rPu">
-    <mxGraphModel dx="989" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,6 +30,9 @@
         </mxCell>
         <mxCell id="Rn9gUrKCNcuoDYYOBClU-11" value="&lt;h3&gt;Software Algorithms&lt;/h3&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="330" y="440" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rn9gUrKCNcuoDYYOBClU-21" value="&lt;h3 style=&quot;text-align: center;&quot;&gt;Sensor Integration&lt;/h3&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Type of Sensors&lt;/strong&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;: Utilize a combination of sensors like GPS, accelerometers, temperature sensors, and heart rate monitors to detect unusual patterns or emergencies automatically.&lt;/span&gt;&lt;br&gt;&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Context Awareness&lt;/strong&gt;: Sensors should be capable of context-aware processing to differentiate between normal activities and potential emergencies.&lt;/li&gt;&lt;/ul&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="520" y="320" width="360" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
