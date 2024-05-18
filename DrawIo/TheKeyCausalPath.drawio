@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-18T03:00:44.716Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="jFypzr7WHfnONaRudSX5" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-18T03:02:57.804Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="OHUG9UF03SiOkso9Zt2h" version="24.3.1" type="github">
   <diagram name="Page-1" id="fyQJrKO3HGvpboNa-rPu">
     <mxGraphModel dx="1075" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -45,6 +45,9 @@
         </mxCell>
         <mxCell id="Rn9gUrKCNcuoDYYOBClU-32" value="&lt;h3 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Authentication and Authorization&lt;/strong&gt;&lt;/h3&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;User Verification&lt;/strong&gt;: Establish protocols to authenticate the identity of the signal sender using secure login methods, biometric data, or device authentication. This helps ensure that signals are coming from registered and legitimate users.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Device Authentication&lt;/strong&gt;: Implement systems to verify the device from which the distress signal originates, possibly using certificates or secure device IDs to prevent unauthorized devices from sending signals.&lt;/li&gt;&lt;/ul&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1030" y="310" width="440" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Rn9gUrKCNcuoDYYOBClU-33" value="&lt;h3 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Error Checking and Correction&lt;/strong&gt;&lt;/h3&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Checksums and CRC&lt;/strong&gt;: Utilize checksums or cyclic redundancy check (CRC) methods to detect any alterations or errors in the data received. These techniques are critical for maintaining data integrity during transmission.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Error-Correcting Codes&lt;/strong&gt;: Implement forward error correction (FEC) techniques to automatically correct errors in signal data without needing a retransmission, which is crucial in time-sensitive situations.&lt;/li&gt;&lt;/ul&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="510" width="440" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
