@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-18T03:02:57.804Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="OHUG9UF03SiOkso9Zt2h" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-18T03:03:46.183Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="-fR2Fmbn97GzJ6W3YHjQ" version="24.3.1" type="github">
   <diagram name="Page-1" id="fyQJrKO3HGvpboNa-rPu">
     <mxGraphModel dx="1075" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -48,6 +48,9 @@
         </mxCell>
         <mxCell id="Rn9gUrKCNcuoDYYOBClU-33" value="&lt;h3 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Error Checking and Correction&lt;/strong&gt;&lt;/h3&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Checksums and CRC&lt;/strong&gt;: Utilize checksums or cyclic redundancy check (CRC) methods to detect any alterations or errors in the data received. These techniques are critical for maintaining data integrity during transmission.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Error-Correcting Codes&lt;/strong&gt;: Implement forward error correction (FEC) techniques to automatically correct errors in signal data without needing a retransmission, which is crucial in time-sensitive situations.&lt;/li&gt;&lt;/ul&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1030" y="510" width="440" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Rn9gUrKCNcuoDYYOBClU-34" value="&lt;h3 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Signal Integrity Checks&lt;/strong&gt;&lt;/h3&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Data Validation Rules&lt;/strong&gt;: Set up a series of data validation rules that every signal must pass before being considered valid. These might include checks for data format, completeness, and logical consistency (e.g., the location data matches the known areas of service).&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Anomaly Detection&lt;/strong&gt;: Employ anomaly detection techniques to identify signals that deviate from typical patterns, which might indicate malfunctioning equipment or attempted system abuse.&lt;/li&gt;&lt;/ul&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="720" width="440" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
