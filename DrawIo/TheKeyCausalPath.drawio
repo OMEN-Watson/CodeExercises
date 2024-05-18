@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2024-05-18T02:32:09.731Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.3.1" etag="M252Qz7_cOThbb8XhpGR" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-18T02:33:54.653Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="9Sz6nDRVB04LPH7nZOWZ" version="24.3.1" type="github">
   <diagram name="Page-1" id="fyQJrKO3HGvpboNa-rPu">
-    <mxGraphModel>
+    <mxGraphModel dx="1154" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Rn9gUrKCNcuoDYYOBClU-2" value="&lt;strong&gt;Detect and Initiate Signals (1.1)&lt;/strong&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="320" y="210" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rn9gUrKCNcuoDYYOBClU-3" value="&lt;strong&gt;Process and Validate Signals (1.2)&lt;/strong&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="480" y="210" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rn9gUrKCNcuoDYYOBClU-4" value="&lt;strong&gt;Transmit Signals (1.3)&lt;/strong&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="640" y="210" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rn9gUrKCNcuoDYYOBClU-5" value="&lt;strong&gt;Coordinate Rescue Process (8.0)&lt;/strong&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="790" y="210" width="140" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
