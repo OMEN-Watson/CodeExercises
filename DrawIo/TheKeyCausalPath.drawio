@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-18T02:44:44.054Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="fh8W9EFtiDphXeFajYH9" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-18T02:51:12.579Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="ZQuxxLWoG-uhHe0x8AhY" version="24.3.1" type="github">
   <diagram name="Page-1" id="fyQJrKO3HGvpboNa-rPu">
-    <mxGraphModel dx="1195" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="2049" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,6 +30,9 @@
         </mxCell>
         <mxCell id="Rn9gUrKCNcuoDYYOBClU-27" value="&lt;strong style=&quot;font-size: 15px;&quot;&gt;Coordinate Rescue Process (8.0)&lt;/strong&gt;" style="whiteSpace=wrap;html=1;align=center;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="2000" y="200" width="370" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Rn9gUrKCNcuoDYYOBClU-28" value="&lt;h3 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Real-Time Data Processing&lt;/strong&gt;&lt;/h3&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Type of Sensors&lt;/strong&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;: Utilize a combination of sensors like GPS, accelerometers, temperature sensors, and heart rate monitors to detect unusual patterns or emergencies automatically.&lt;/span&gt;&lt;br&gt;&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Context Awareness&lt;/strong&gt;: Sensors should be capable of context-aware processing to differentiate between normal activities and potential emergencies.&lt;/li&gt;&lt;/ul&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="640" y="310" width="360" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
