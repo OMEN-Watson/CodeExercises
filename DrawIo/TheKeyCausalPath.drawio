@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-18T04:16:26.480Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="OSpl0Z2ayDblWVw9D01C" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-18T04:38:59.571Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="rtkcVoj8xiUNpV9JFn_I" version="24.3.1" type="github">
   <diagram name="Page-1" id="fyQJrKO3HGvpboNa-rPu">
-    <mxGraphModel dx="6573" dy="2131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="5632" dy="1658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,6 +15,11 @@
         </mxCell>
         <mxCell id="Rn9gUrKCNcuoDYYOBClU-21" value="&lt;h3 style=&quot;text-align: center;&quot;&gt;Sensor Integration&lt;/h3&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Type of Sensors&lt;/strong&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;: Utilize a combination of sensors like GPS, accelerometers, temperature sensors, and heart rate monitors to detect unusual patterns or emergencies automatically.&lt;/span&gt;&lt;br&gt;&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Context Awareness&lt;/strong&gt;: Sensors should be capable of context-aware processing to differentiate between normal activities and potential emergencies.&lt;/li&gt;&lt;/ul&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-140" y="290" width="360" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Rn9gUrKCNcuoDYYOBClU-48" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rn9gUrKCNcuoDYYOBClU-22" target="Rn9gUrKCNcuoDYYOBClU-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="660" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Rn9gUrKCNcuoDYYOBClU-22" value="&lt;h3 style=&quot;text-align: center;&quot;&gt;Manual Activation Mechanism&lt;/h3&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Physical Button&lt;/strong&gt;: Design a robust and easily accessible physical button on the device that users can press to initiate a distress signal manually.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Voice Activation&lt;/strong&gt;: Implement voice recognition technology to allow users to activate the distress signal through a specific voice command, which can be especially useful if the user is unable to physically interact with the device.&lt;/li&gt;&lt;/ul&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-140" y="500" width="360" height="170" as="geometry" />
@@ -37,6 +42,9 @@
         <mxCell id="Rn9gUrKCNcuoDYYOBClU-27" value="&lt;strong style=&quot;font-size: 15px;&quot;&gt;Coordinate Rescue Process (8.0)&lt;/strong&gt;" style="whiteSpace=wrap;html=1;align=center;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="2360" y="100" width="370" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="Rn9gUrKCNcuoDYYOBClU-51" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rn9gUrKCNcuoDYYOBClU-28" target="Rn9gUrKCNcuoDYYOBClU-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Rn9gUrKCNcuoDYYOBClU-28" value="&lt;h3 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Real-Time Data Processing&lt;/strong&gt;&lt;/h3&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;ul&gt;&lt;li&gt;Implement real-time data processing technologies to handle incoming signals without delay. This can be achieved through stream processing frameworks like Apache Kafka or Apache Flink, which are designed to process large streams of data on-the-fly, ensuring minimal latency between signal detection and response.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="430" y="320" width="360" height="170" as="geometry" />
         </mxCell>
@@ -49,8 +57,14 @@
         <mxCell id="Rn9gUrKCNcuoDYYOBClU-31" value="&lt;h3 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Contextual Processing&lt;/strong&gt;&lt;/h3&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;ul&gt;&lt;li&gt;Incorporate contextual information in the processing stage to enhance the accuracy and relevance of the distress signals. This includes integrating location data, time stamps, and environmental conditions. Contextual processing helps in understanding the situation better and aids in deciding the urgency and type of response needed.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="430" y="940" width="360" height="170" as="geometry" />
         </mxCell>
+        <mxCell id="Rn9gUrKCNcuoDYYOBClU-53" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rn9gUrKCNcuoDYYOBClU-32" target="Rn9gUrKCNcuoDYYOBClU-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Rn9gUrKCNcuoDYYOBClU-32" value="&lt;h3 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Authentication and Authorization&lt;/strong&gt;&lt;/h3&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;User Verification&lt;/strong&gt;: Establish protocols to authenticate the identity of the signal sender using secure login methods, biometric data, or device authentication. This helps ensure that signals are coming from registered and legitimate users.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Device Authentication&lt;/strong&gt;: Implement systems to verify the device from which the distress signal originates, possibly using certificates or secure device IDs to prevent unauthorized devices from sending signals.&lt;/li&gt;&lt;/ul&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1040" y="330" width="440" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Rn9gUrKCNcuoDYYOBClU-52" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rn9gUrKCNcuoDYYOBClU-33" target="Rn9gUrKCNcuoDYYOBClU-41">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Rn9gUrKCNcuoDYYOBClU-33" value="&lt;h3 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Error Checking and Correction&lt;/strong&gt;&lt;/h3&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Checksums and CRC&lt;/strong&gt;: Utilize checksums or cyclic redundancy check (CRC) methods to detect any alterations or errors in the data received. These techniques are critical for maintaining data integrity during transmission.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Error-Correcting Codes&lt;/strong&gt;: Implement forward error correction (FEC) techniques to automatically correct errors in signal data without needing a retransmission, which is crucial in time-sensitive situations.&lt;/li&gt;&lt;/ul&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1040" y="530" width="440" height="170" as="geometry" />
@@ -67,6 +81,9 @@
         <mxCell id="Rn9gUrKCNcuoDYYOBClU-40" value="&lt;h3 style=&quot;text-align: center;&quot;&gt;&lt;strong style=&quot;background-color: initial; font-size: 12px;&quot;&gt;primary MQTT and secondary&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;CoAP&amp;nbsp;&lt;/strong&gt;&lt;br&gt;&lt;/h3&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Fallback Mechanisms&lt;/strong&gt;: Implementing fallback mechanisms &lt;br/&gt;involves using a primary protocol (e.g., MQTT) under normal &lt;br/&gt;circumstances and switching to a secondary protocol (e.g., CoAP or even &lt;br/&gt;HTTP) if the primary protocol fails. This redundancy ensures that the &lt;br/&gt;system remains functional even if one protocol becomes unreliable due to&lt;br/&gt; network issues.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1705" y="710" width="440" height="170" as="geometry" />
         </mxCell>
+        <mxCell id="Rn9gUrKCNcuoDYYOBClU-55" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rn9gUrKCNcuoDYYOBClU-41" target="Rn9gUrKCNcuoDYYOBClU-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Rn9gUrKCNcuoDYYOBClU-41" value="&lt;h3 style=&quot;text-align: center;&quot;&gt;&lt;strong style=&quot;background-color: initial; font-size: 12px;&quot;&gt;both MQTT and &lt;/strong&gt;&lt;strong&gt;CoAP&amp;nbsp;&lt;/strong&gt;simultaneously&lt;br&gt;&lt;/h3&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Simultaneous Protocols&lt;/strong&gt;: In some systems, it might be beneficial to transmit signals over multiple protocols simultaneously to guarantee delivery. For instance, critical alerts could be sent both via MQTT and a cellular SMS system to ensure that the message reaches the emergency services one way or another.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1705" y="920" width="440" height="170" as="geometry" />
         </mxCell>
@@ -81,6 +98,15 @@
         </mxCell>
         <mxCell id="Rn9gUrKCNcuoDYYOBClU-47" value="&lt;h3 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Centralized Communication Platforms&lt;/strong&gt;&lt;/h3&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Unified Command Center&lt;/strong&gt;: Develop a centralized digital communication platform that allows all emergency services to communicate and share information in real time. This platform can include features like live chat, voice communication, and data sharing.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Interoperability&lt;/strong&gt;: Ensure the platform is interoperable with various communication systems used by different emergency services to facilitate seamless information exchange.&lt;/li&gt;&lt;/ul&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2320" y="520" width="440" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Rn9gUrKCNcuoDYYOBClU-49" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.002;entryY=0.466;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Rn9gUrKCNcuoDYYOBClU-24" target="Rn9gUrKCNcuoDYYOBClU-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rn9gUrKCNcuoDYYOBClU-50" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.005;entryY=0.541;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Rn9gUrKCNcuoDYYOBClU-29" target="Rn9gUrKCNcuoDYYOBClU-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rn9gUrKCNcuoDYYOBClU-54" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.004;entryY=0.547;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Rn9gUrKCNcuoDYYOBClU-40" target="Rn9gUrKCNcuoDYYOBClU-46">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
