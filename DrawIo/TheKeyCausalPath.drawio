@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-18T02:33:54.653Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="9Sz6nDRVB04LPH7nZOWZ" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-18T02:35:19.805Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="9aXBLtsg2QtihLbjDg4D" version="24.3.1" type="github">
   <diagram name="Page-1" id="fyQJrKO3HGvpboNa-rPu">
-    <mxGraphModel dx="1154" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,6 +15,21 @@
         </mxCell>
         <mxCell id="Rn9gUrKCNcuoDYYOBClU-5" value="&lt;strong&gt;Coordinate Rescue Process (8.0)&lt;/strong&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="790" y="210" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rn9gUrKCNcuoDYYOBClU-6" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="270" as="sourcePoint" />
+            <mxPoint x="990" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rn9gUrKCNcuoDYYOBClU-9" value="&lt;h3&gt;Sensor Integration&lt;/h3&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="330" y="290" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rn9gUrKCNcuoDYYOBClU-10" value="&lt;h3&gt;Manual Activation Mechanism&lt;/h3&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="330" y="360" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rn9gUrKCNcuoDYYOBClU-11" value="&lt;h3&gt;Software Algorithms&lt;/h3&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="330" y="440" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
